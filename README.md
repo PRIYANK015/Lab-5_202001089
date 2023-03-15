@@ -65,6 +65,14 @@ Output:
 This file is not able to find the implementation of library like pandas and the attributes defined in the python file are not found and used explicitly in the file.
 
 
+
+
+Major Errors which can be reduced:
+ Errors for the libraries can be solved by instaaling the given libraries in the system and they can be imported .
+ 
+
+
+
 THANK YOU.
 
 
